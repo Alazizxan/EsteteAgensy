@@ -1,4 +1,4 @@
-# ![Logo Estatein](assets/icons/icon32.png) ESTATEIN – Real Estate Agency
+# ![Logo Estatein](assets/icons/icon32.png) HavyAgency –  Estate Agency
 
 **Full-stack (Frontend + Backend) Project**  
 A modern platform for delivering up-to-date real estate information and attracting new clients.
